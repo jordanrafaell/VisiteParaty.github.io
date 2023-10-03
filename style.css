@@ -41,7 +41,7 @@ section
     width: 100%;
     height: 100%;
     text-align: center;
-    background-image: url("bg-estacao.jpg");
+    background-image: url(https://github.com/jordanrafaell/VisiteParaty.github.io/assets/61181764/5b080cfe-b609-4b1f-8385-7079db071cdf);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -129,7 +129,7 @@ li::before {
     content:"";
     width: 20px;
     height: 20px;
-    background-image: url("seta.png");
+    background-image: url(https://github.com/jordanrafaell/VisiteParaty.github.io/assets/61181764/a2052168-8d91-41d6-bf2a-9f856763f76f);
     margin: 0 6px 0 0;
 }
 
